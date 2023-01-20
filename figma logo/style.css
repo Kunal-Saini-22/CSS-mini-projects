@@ -1,0 +1,92 @@
+*{
+    padding: 0%;
+    margin: 0%;
+
+    box-sizing: border-box;
+}
+
+/* utility classes */
+
+.box{
+    height: 65px;
+    width: 65px;
+    /* margin: 2px; */
+    /* background-color: brown; */
+}
+
+
+.container{
+    background-color: black;
+    display: flex;
+    /* padding-top: 10px; */
+    /* column-gap: 0px; */
+    height: 80vh;
+    width: 80vw;
+    
+    margin-left: 200px;
+    margin-top: 100px;
+
+    justify-content: center;
+    align-items: center;
+
+    flex-wrap: wrap;
+
+}
+
+/* left line  */
+
+.left-line{
+    /* background-color: yellow; */
+    width: fit-content;
+    /* padding: 15px; */
+}
+
+.left-round{
+    border-bottom-left-radius:50%  ;
+    border-top-left-radius:50%  ;
+}
+
+.orange{
+background-color: #fb5607;
+}
+.purple{
+    background-color: #8338ec;
+}
+.green{
+background-color: #06d6a0;
+border-bottom-right-radius: 50%;
+}
+
+/* right line */
+
+.right-line{
+    /* background-color: aqua; */
+    width: fit-content;
+    /* padding: 15px; */
+}
+
+.peech{
+    background-color: #f28482;
+    border-bottom-right-radius: 50%;
+    border-top-right-radius: 50%;
+}
+
+.blue{
+
+    border-radius: 50%;
+    background-color: #4cc9f0 ;
+}
+
+/* text section */
+
+.figma-text{
+
+    font-family:sans-serif,monospace;
+    color: white;
+
+    font-size: 16rem;
+    font-weight: normal;
+
+    margin-left: 55px;
+
+}
