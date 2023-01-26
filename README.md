@@ -7,4 +7,3 @@
 <b>4. Microsoft logo :</b>   https://dazzling-conkies-fed561.netlify.app/   <hr>
 <b>5. Figma logo     :</b>   https://chic-squirrel-755ce1.netlify.app/  <hr>
 
-```
